@@ -1,0 +1,86 @@
+#mapid {
+  height: 600px;
+  width: 90%;
+  margin: 3rem auto;
+  margin-bottom: 15px;
+}
+
+.legend {
+  line-height: 18px;
+  color: rgb(238, 238, 238);
+  background-color: rgba(206, 206, 206, 0.3);
+  padding: 10px 10px 10px 10px;
+  border: 3px solid rgba(206, 206, 206, 0.5);
+
+  font-size: 12pt;
+  text-shadow: 0px 0px 5px black;
+}
+
+.legend img {
+  width: 14px;
+  height: 14px;
+}
+
+.legend i {
+  width: 18px;
+  height: 18px;
+  float: left;
+  margin-right: 8px;
+  opacity: 0.7;
+}
+
+.leaflet-popup h1 {
+  font-size: 20px;
+  text-transform: capitalize;
+  width: 400px;
+}
+
+.leaflet-popup-content-wrapper {
+  width: 490px;
+}
+
+img {
+  width: 450px;
+}
+
+.control-window {
+  background-color: rgba(48, 48, 48, 0.9);
+}
+
+.content p {
+  background-color: transparent;
+  text-align: center;
+  color: rgb(230, 230, 230);
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 0px 60px 20px 60px;
+}
+
+h2 {
+  font-size: 30pt;
+  text-align: center;
+  /* background-color: black; */
+  color: rgb(230, 230, 230);
+  margin: 15px;
+}
+
+.slide-content {
+  text-align: center;
+}
+
+.mySlides {
+  padding: 10px;
+  width: 370px;
+}
+
+ul {
+  margin-bottom: 0px;
+}
+
+.leaflet-container a {
+  color: rgb(230, 230, 230);
+}
+
+div .content {
+  max-height: 600px !important;
+}
+
