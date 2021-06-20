@@ -11,8 +11,11 @@ Travel destinations in Peru were used for this project, but any other geographic
 * Mapshakers/leaflet-control-window - Leaflet plug-in that facilitates modal popups
 
 ## Final Result
-General view
+General view - satellite
 ![screenshot4](/screenshots/wm4.jpg)
+
+General view - light color
+![screenshot6](/screenshots/wm6.jpg)
 
 Simple popup on city marker
 ![screenshot1](/screenshots/wm1.jpg)
