@@ -1,6 +1,6 @@
 # CREATE A LEAFLET MAP USING YOUR OWN GEOJSON FILES
 Let's build a Web Map.
-Travel destinations in Peru were used for this project, but other any other geographic data can be easily implemented.
+Travel destinations in Peru were used for this project, but any other geographic data can be easily implemented.
 
 ## Requires
 
