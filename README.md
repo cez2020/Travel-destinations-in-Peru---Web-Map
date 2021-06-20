@@ -12,7 +12,10 @@ Travel destinations in Peru were used for this project, but other any other geog
 
 ## Final Result
 
-
+![screenshot1](/screenshots/wm1.jpg)
+![screenshot2](/screenshots/wm2.jpg)
+![screenshot3](/screenshots/wm3.jpg)
+![screenshot4](/screenshots/wm4.jpg)
 
 ## Video Demo (link)
 
