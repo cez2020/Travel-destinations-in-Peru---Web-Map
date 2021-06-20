@@ -17,15 +17,15 @@ General view
 Simple popup on city marker
 ![screenshot1](/screenshots/wm1.jpg)
 
-Modal popup on marker
-![screenshot2](/screenshots/wm2.jpg)
-
 Simple popup on point of interest marker
 ![screenshot3](/screenshots/wm3.jpg)
 
+Modal popup on national park polygon
+![screenshot2](/screenshots/wm2.jpg)
 
+Modal popup on world heritage site marker
+![screenshot5](/screenshots/wm5.jpg)
 
 ## Video Demo (link)
-
 https://youtu.be/DfV87Zmv7u4
 
