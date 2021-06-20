@@ -10,7 +10,11 @@ Travel destinations in Peru were used for this project, but other any other geog
 * Leaflet library 1.7.1 (called in script file)
 * Mapshakers/leaflet-control-window - Leaflet plug-in that facilitates modal popups
 
+## Final Result
 
 
 
+## Video Demo (link)
+
+https://youtu.be/DfV87Zmv7u4
 
